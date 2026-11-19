@@ -4,7 +4,7 @@
 STIWK2014 Software Engineering Project, Semester I 2026/2027 (A261)
 Universiti Utara Malaysia, School of Computing
 
-## Members
+## Members (*DevBros*)
 - 309920 Ahmad Afiq Bin Zainuddin
 - 309839 Mohammad Zulhairie Bin Zabidi
 - 311137 Muhammad Izzul Solihin Bin Azahar
