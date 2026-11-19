@@ -1,6 +1,6 @@
-# SlotMe
+# System Name: SlotMe
 
-# Student Consultation Booking System
+## Student Consultation Booking System
 STIWK2014 Software Engineering Project, Semester I 2026/2027 (A261)
 Universiti Utara Malaysia, School of Computing
 
